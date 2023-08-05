@@ -65,10 +65,12 @@ python app.py
 
 ```
 
-##Usage
+## Usage
+
 Once the chatbot is up and running, engage with it by entering your financial queries or seeking investment advice. The chatbot will provide insightful responses based on its training data.
 
-##Contribution
+## Contribution
+
 We welcome contributions to enhance the chatbot's knowledge base, improve responses, and expand its financial expertise.
 
 Please note that the FinanceChatbot is designed as a prototype and for illustrative purposes, and may not be actively developed further.
